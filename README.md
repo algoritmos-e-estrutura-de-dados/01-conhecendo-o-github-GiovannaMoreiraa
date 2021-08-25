@@ -2,3 +2,6 @@
 # Class codes
 
 Códigos realizados em sala de aula.
+
+- Aula 1: Aprendendendo GitHub
+<br>  Aprendemos fazer commits, push, etc;
